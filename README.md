@@ -1,7 +1,9 @@
-<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=fff78d&height=150&section=header&text=JooHyeKim&fontSize=75&fontColor=ff8868&animation=fadeIn)
 <br/>
+  
 ## :notebook: Tech Stack :notebook:<br/>
+  
 <hr/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white">
@@ -15,4 +17,3 @@
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
-</div>
