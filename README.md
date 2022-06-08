@@ -1,6 +1,6 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=fff78d&height=150&section=header&text=JooHyeKim&fontSize=75&fontColor=ff8868&animation=fadeIn)
 <br/>
-<div align="center">
 ## :notebook: Tech Stack :notebook:<br/>
 <hr/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
