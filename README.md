@@ -1,9 +1,8 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=fff78d&height=150&section=header&text=JooHyeKim&fontSize=75&fontColor=ff8868&animation=fadeIn)
-<br/><br/><br/>
   
-## :notebook: Tech Stack <br/>
+<br/><br/><h2> :notebook: Tech Stack </h2><br/>
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white">
@@ -18,7 +17,13 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
   
-## :notebook: Github stats <br/>  
+<br/><br/><h2> :computer: Github stats</h2><br/>
+![kimjoohye's github stats](https://github-readme-stats.vercel.app/api?username=kimjoohye&show_icons=true)
+  
+  
+<br/><br/><h2>:sparkles:Most Used Languages:sparkles:</h2><br/>
+[![kimjoohye's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjoohye&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kimjoohye)
+  
 </div>
 
 
